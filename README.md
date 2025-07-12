@@ -74,7 +74,8 @@ It predicts the presence of heart disease based on patient health data.
 
 ---
 
-This project is for educational and research purposes and part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is for educational and research purposes and part of my portfolio, showcasing the Machine Learning skills essential for data science roles. 
+If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/adii8/)
 
