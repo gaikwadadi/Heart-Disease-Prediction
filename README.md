@@ -74,8 +74,6 @@ It predicts the presence of heart disease based on patient health data.
 
 ---
 
-## 📄 License
-
 This project is for educational and research purposes.
 
 ---
